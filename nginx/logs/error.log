@@ -1,0 +1,102 @@
+2017/12/08 19:55:12 [error] 10452#6300: *1 CreateFile() "C:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/12/08 20:05:58 [notice] 2904#6944: signal process started
+2017/12/08 20:06:13 [notice] 12060#236: signal process started
+2017/12/08 20:06:13 [error] 12060#236: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/08 20:06:21 [error] 10452#6300: *20 CreateFile() "C:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/12/08 22:26:56 [error] 8124#8672: *1 CreateFile() "C:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/12/09 06:27:21 [error] 5940#7420: *14 CreateFile() "C:\myServer\nginx/html/info.php" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /info.php HTTP/1.1", host: "localhost"
+2017/12/09 06:39:22 [error] 7672#11456: *12 CreateFile() "C:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2017/12/09 08:24:01 [error] 11776#12128: *4 CreateFile() "C:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/12/09 08:24:19 [error] 11776#12128: *4 CreateFile() "C:\myServer\nginx/html/;php" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /;php HTTP/1.1", host: "localhost"
+2017/12/09 10:31:04 [error] 2736#7060: *1 CreateFile() "c:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/12/09 10:31:04 [error] 2736#7060: *1 CreateFile() "c:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/12/09 10:48:02 [error] 2736#7060: *3 CreateFile() "c:\myServer\nginx/html/indexphp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexphp HTTP/1.1", host: "localhost"
+2017/12/09 10:49:33 [error] 2736#7060: *4 CreateFile() "c:\myServer\nginx/html/indexphp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexphp HTTP/1.1", host: "localhost"
+2017/12/09 10:49:35 [error] 2736#7060: *4 CreateFile() "c:\myServer\nginx/html/indexphp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /indexphp HTTP/1.1", host: "localhost"
+2017/12/09 10:50:09 [error] 2736#7060: *6 CreateFile() "c:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2017/12/09 10:51:53 [emerg] 6088#6080: invalid number of arguments in "root" directive in c:\myServer\nginx/conf/nginx.conf:67
+2017/12/09 10:53:27 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:53:28 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:53:28 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:53:28 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:53:28 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:53:28 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:53:30 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:53:30 [error] 2736#7060: *9 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:54:36 [error] 2736#7060: *10 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:54:36 [error] 2736#7060: *10 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:54:36 [error] 2736#7060: *10 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:54:37 [error] 2736#7060: *10 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:54:37 [error] 2736#7060: *10 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:54:37 [error] 2736#7060: *10 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:54:37 [error] 2736#7060: *10 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:56:14 [error] 2736#7060: *11 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:59:56 [error] 2736#7060: *12 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:59:57 [error] 2736#7060: *12 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:59:57 [error] 2736#7060: *12 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 10:59:58 [error] 2736#7060: *12 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:31 [error] 2736#7060: *14 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:34 [error] 2736#7060: *14 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:37 [error] 2736#7060: *14 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:41 [error] 2736#7060: *14 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:42 [error] 2736#7060: *14 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:45 [error] 2736#7060: *17 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:47 [error] 2736#7060: *18 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:49 [error] 2736#7060: *19 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:02:52 [error] 2736#7060: *19 directory index of "c:\myServer\nginx/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:03:43 [error] 8892#9148: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:03:44 [error] 8892#9148: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:03:47 [error] 8892#9148: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:06:01 [error] 7236#7028: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:06:03 [error] 7236#7028: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:06:14 [error] 7236#7028: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:06:15 [error] 7236#7028: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:06:17 [error] 7236#7028: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:06:22 [error] 7236#7028: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:06:23 [error] 7236#7028: *1 directory index of "c:/myServer/www/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/12/09 11:07:56 [emerg] 464#8772: invalid number of arguments in "root" directive in c:\myServer\nginx/conf/nginx.conf:54
+2017/12/09 11:10:58 [emerg] 828#8808: invalid number of arguments in "root" directive in c:\myServer\nginx/conf/nginx.conf:54
+2017/12/09 11:11:26 [emerg] 7996#10744: invalid number of arguments in "root" directive in c:\myServer\nginx/conf/nginx.conf:54
+2017/12/09 11:12:19 [emerg] 3092#8556: invalid number of arguments in "root" directive in c:\myServer\nginx/conf/nginx.conf:54
+2017/12/09 11:12:53 [emerg] 7768#10532: invalid number of arguments in "root" directive in c:\myServer\nginx/conf/nginx.conf:54
+2017/12/09 11:14:01 [emerg] 6344#6732: no "events" section in configuration
+2017/12/09 11:14:32 [emerg] 4888#6564: no "events" section in configuration
+2017/12/09 11:18:22 [emerg] 12036#1276: no "events" section in configuration
+2017/12/09 11:24:16 [error] 2600#2460: *1 CreateFile() "c:\myServer\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/12/09 11:46:51 [notice] 10888#10904: signal process started
+2017/12/09 11:47:16 [notice] 8216#2604: signal process started
+2017/12/09 12:07:56 [notice] 2672#808: signal process started
+2017/12/09 12:48:10 [notice] 11440#2944: signal process started
+2017/12/09 12:51:40 [notice] 10860#7508: signal process started
+2017/12/09 12:54:01 [notice] 856#10516: signal process started
+2017/12/09 12:54:27 [notice] 7532#8616: signal process started
+2017/12/09 12:54:27 [error] 7532#8616: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 12:58:57 [notice] 3580#9876: signal process started
+2017/12/09 12:59:53 [notice] 1492#5268: signal process started
+2017/12/09 13:01:19 [notice] 3448#4304: signal process started
+2017/12/09 13:01:37 [notice] 10524#9168: signal process started
+2017/12/09 13:01:37 [error] 10524#9168: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:01:42 [notice] 4764#10588: signal process started
+2017/12/09 13:01:42 [error] 4764#10588: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:02:46 [error] 1208#1140: *38 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /info.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2017/12/09 13:03:44 [notice] 6212#4952: signal process started
+2017/12/09 13:03:44 [error] 6212#4952: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:03:58 [notice] 6784#11576: signal process started
+2017/12/09 13:14:30 [notice] 552#6976: signal process started
+2017/12/09 13:14:47 [notice] 1324#11640: signal process started
+2017/12/09 13:14:47 [error] 1324#11640: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:16:28 [notice] 12064#4684: signal process started
+2017/12/09 13:16:28 [error] 12064#4684: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:16:46 [notice] 9728#856: signal process started
+2017/12/09 13:17:11 [notice] 5612#5264: signal process started
+2017/12/09 13:17:11 [error] 5612#5264: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:19:53 [notice] 6032#2524: signal process started
+2017/12/09 13:19:53 [error] 6032#2524: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:20:15 [notice] 1728#7056: signal process started
+2017/12/09 13:20:15 [error] 1728#7056: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 13:20:59 [notice] 5548#4240: signal process started
+2017/12/09 13:24:18 [notice] 10224#8904: signal process started
+2017/12/09 13:24:18 [error] 10224#8904: CreateFile() "C:\myServer\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/09 15:11:47 [error] 4368#8128: *9 CreateFile() "C:/myServer/www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/12/09 20:12:14 [error] 4532#4224: *1 CreateFile() "C:/myServer/www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/12/09 20:12:56 [error] 4532#4224: *3 CreateFile() "C:/myServer/www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
